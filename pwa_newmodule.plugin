@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=pwa_newmodule
+IAge=3
+Name=Pi-web-agent New Module
+Description=Create a new extension module for pi-web-agent
+Authors=Vasilis Nicolaou <vaslabs@yahoo.gr>
+Copyright=Copyright © 2014 Vasilis Nicolaou <vaslabsco@gmail.com>
+Website=http://vaslabs.blogspot.com
